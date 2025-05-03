@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import toast from "react-hot-toast";
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import sendbtn from "./sendbtn.svg"; // Correct path to your SVG file
 import ReactMarkdown from "react-markdown";
 
 // INTERNAL IMPORT
